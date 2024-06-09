@@ -14,3 +14,7 @@ This is a good example of [my code](https://gist.github.com/Kweefiz/6aa527036381
 ### Colab Example
 
 This is the colab [notebook](https://github.com/Kweefiz/technical-discussion/blob/main/technical_docs.ipynb)
+
+### Coursera Link
+
+This is the coursera [notebook link](https://hub.labs.coursera.org:443/connect/sharedmermnkgm?forceRefresh=false&isLabVersioning=file-prep) I had to upload
